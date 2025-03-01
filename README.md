@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate and ambitious software engineer c
 ---
 
 ## 🚀 About Me
-I am constantly learning new technologies and improving my skills. I am particularly interested in developing impactful software solutions that drive business growth and innovation. My current focus is on mastering **React** while continuing to deepen my knowledge of **Python** and **Django** for backend development.
+I am a passionate and continuous learner, always exploring new technologies and enhancing my skill set. I am particularly excited about building impactful software solutions that foster business growth and drive innovation. Currently, my focus is on mastering **JavaScript** and advancing my expertise in **Python** and **Django** for backend development. In addition, I am eager to expand my knowledge in **AI** and **Large Language Models** (LLMs) to tackle complex challenges and contribute to cutting-edge advancements.
 
 I love working on projects that challenge me and help me grow as a developer. I am always looking for new opportunities to collaborate, learn, and create something amazing!
 
