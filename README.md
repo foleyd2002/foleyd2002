@@ -17,6 +17,16 @@ Welcome to my GitHub profile! I'm a passionate and ambitious software engineer c
 
 ---
 
+## 📚 Projects
+
+Here are a few of the projects I've worked on:
+
+- **[DarraghFoley - Portfolio](https://github.com/foleyd2002/Portfolio)**: Click to learn more about my portfolio .
+- **[BiteFolio](https://github.com/foleyd2002/BiteFolio)**: Early-Production-Stage: This application allows user's to upload and view the restaurants and pubs/bars they have been to, so they never forget their favourite spots.
+- **[The Mountain Biking app](https://github.com/foleyd2002/Mountain_biking_project)**:A throwback to one of my first django and college projects :).
+
+---
+
 ## 🎓 Education
 - **Student** at **DCU School of Electronic Engineering and Computing**
 - Program: **COMBUS (Computing for Business)**
@@ -31,21 +41,9 @@ I love working on projects that challenge me and help me grow as a developer. I 
 
 ---
 
-## 📚 Projects
-
-Here are a few of the projects I've worked on:
-
-- **[Project 1 Name](link-to-project)**: Short description.
-- **[Project 2 Name](link-to-project)**: Short description.
-- **[Project 3 Name](link-to-project)**: Short description.
-
----
-
 ## 📫 How to Reach Me
 
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/darragh-foley-145820239/)
 
 ---
 
