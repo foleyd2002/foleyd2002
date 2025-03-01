@@ -43,7 +43,7 @@ I love working on projects that challenge me and help me grow as a developer. I 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/darragh-foley-145820239/)
+- [LinkedIn](https://www.linkedin.com/in/darragh-foley-145820239/)
 
 ---
 
