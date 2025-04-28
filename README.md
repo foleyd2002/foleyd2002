@@ -28,7 +28,7 @@ Here are a few of the projects I've worked on:
 ---
 
 ##  💼  Expierence
-- **Software Engineering Intern** at **Shutterstock**
+- **Software Engineering Intern** at **Shutterstock**<br>
   During my internship, I honed my skills in writing efficient, maintainable code using Node.js (JavaScript) and Python. I gained hands-on experience with modern technologies including New Relic for observability, Kubernetes for container orchestration, and CI/CD pipelines utilizing Jenkins and GitHub Actions. Additionally, I developed a strong foundation in systems architecture and design, contributing to scalable and reliable software solutions.
 ---
 
