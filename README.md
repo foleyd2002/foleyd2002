@@ -1,6 +1,6 @@
 # 🌟 Aspiring Software Engineer
 
-Welcome to my GitHub profile! I'm a passionate and ambitious software engineer currently studying at **DCU School of Electronic Engineering and Computing** in the **COMBUS** program. I'm on track to achieve a **First-Class Honours (1.1)** degree. 
+Welcome to my GitHub profile! I'm a passionate and ambitious software engineer currently studying at **DCU School of Electronic Engineering and Computing**. I'm on track to achieve a **First-Class Honours (1.1)** degree. I have previous expierence as a **Software Engineering Intern** at **Shutterstock** and am currently **Ranked 1st** overall in my university course.
 
 ## 🧑‍💻 Technologies & Tools
 
