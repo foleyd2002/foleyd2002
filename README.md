@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate and ambitious software engineer c
 
 Here are a few of the projects I've worked on:
 
+- **[Golf Sweepstake Application](https://github.com/foleyd2002/golf_sweepstake_fundraiser)**: Application and Leaderboard for Golf Sweepstake fundraiser for local sports club. Deployed live **[here](https://golfsweepstakefundraiser-production.up.railway.app/sweepstake/leaderboard/)** 
 - **[DarraghFoley - Portfolio](https://github.com/foleyd2002/Portfolio)**: Click to learn more about my portfolio .
 - **[BiteFolio](https://github.com/foleyd2002/BiteFolio)**: Early-Production-Stage: This application allows user's to upload and view the restaurants and pubs/bars they have been to, so they never forget their favourite spots.
 - **[The Mountain Biking app](https://github.com/foleyd2002/Mountain_biking_project)**:A throwback to one of my first django and college projects :).
